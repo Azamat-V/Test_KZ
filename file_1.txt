@@ -6,3 +6,4 @@ Third_line_repository
 The new line
 Push
 Bush
+git status!
