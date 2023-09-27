@@ -10,3 +10,5 @@ git status!
 Regression testing
 Smoke testing
 re-testing
+Compatibility testing
+performance testing
