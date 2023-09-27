@@ -7,3 +7,6 @@ The new line
 Push
 Bush
 git status!
+Regression testing
+Smoke testing
+re-testing
