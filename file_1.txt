@@ -1,4 +1,4 @@
-First_line
+It has to be a conflict here
 
 Second_line
 
