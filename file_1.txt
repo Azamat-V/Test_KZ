@@ -1,4 +1,4 @@
-First_line
+Conflict
 
 Second_line
 
