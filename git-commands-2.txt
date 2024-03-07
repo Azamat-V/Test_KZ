@@ -10,6 +10,7 @@ git diff <filename                                                 -> Check chan
 git remote add origin <Github Repository URL>                      -> Establish connection to the remote Github Repository
 git push origin master                                             -> Push to master branch
 
+
 ====================================================================================================================================
 Scenario 1:
 First Release -> Done
@@ -36,3 +37,21 @@ Scenario 3:
 
 
 ====================================================================================================================================
+
+
+PrivateBranch1--------------------------
+                      |                                      |
+                      |                                      |
+                      |                                      |
+                      |                                      |
+                      |                                      |
+                      |                                      |
+                      |                                      |
+===================Master===========Release=============Master======================Master================Release===========Master=========================
+                      |                                                                    |
+                      |                                                                    |
+                      |                                                                    |
+                      |                                                                    |Pull and then merge
+                      PrivateBranch2--------------------------------------------------------
+
+
